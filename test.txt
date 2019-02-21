@@ -4,5 +4,7 @@ conflict feature 1
 conflict feature change same row feature 1
 
 
+error when merge develop branch
+
 viettq25 test
 
