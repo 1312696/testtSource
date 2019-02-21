@@ -1,5 +1,5 @@
 test commit feature 1
-conflict feature 3
+conflict change feature 3
 
 conflict feature 1
 
