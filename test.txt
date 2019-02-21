@@ -9,5 +9,7 @@ conflict feature change same row
 
 conflict feature change same row 2222
 
+
+error merge
 viettq25 test
 
