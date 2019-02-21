@@ -7,5 +7,7 @@ conflict feature change same row feature 1
 error when merge develop branch
 conflict feature change same row
 
+conflict feature change same row 2222
+
 viettq25 test
 
