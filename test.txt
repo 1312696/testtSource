@@ -1,4 +1,5 @@
 test commit feature 1
+conflict feature 3
 
 viettq25 test
 
