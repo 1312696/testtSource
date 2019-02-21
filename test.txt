@@ -1,6 +1,6 @@
 test commit feature 1
 
-conflict feature 1
+conflict feature change same row
 
 viettq25 test
 
