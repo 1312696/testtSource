@@ -1,4 +1,5 @@
 test commit feature 1
+conflict change feature 3
 
 conflict feature change same row
 
